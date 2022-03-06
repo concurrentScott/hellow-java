@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/concurrent/pom.xml" />
         <option value="$PROJECT_DIR$/Algorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/pom.xml" />
       </list>
     </option>
   </component>
